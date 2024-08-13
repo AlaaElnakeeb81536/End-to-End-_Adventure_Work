@@ -57,7 +57,8 @@ The project employs a star schema for streamlined analytics:
 
 ## 3. Dim Date 
 - Design extract customer data from the source database Excel file.
-- Apply data convesion to Month_name column to reduce its length. 
+- Apply data convesion to Month_name column to reduce its length.
+- 
   ![image](https://github.com/user-attachments/assets/0188997b-5701-4b59-849d-637a49d4eab3)
   
 ## 4. Dim Territory
