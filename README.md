@@ -1,4 +1,4 @@
-### Sales Data Mart
+![image](https://github.com/user-attachments/assets/aae5a628-b178-4909-ae60-9b498de0a04b)### Sales Data Mart
 Adventure Works Data Warehouse project (Sales data mart) using SQL , SSIS , PowerPi.
 
 ### Overview
@@ -45,15 +45,17 @@ The ETL process is comprised of 3 steps that enable data integration from source
 Dim Product design extract customer data from the source database (OLEDB). Apply some transformation (Lookup and get data from different tables and replace Nulls values).
 
 Apply Slowly Changing Dimension (SCD) processing to handle orders changes.
-
+![image](https://github.com/user-attachments/assets/50dd5290-e692-4741-8f60-36259443aad6)
 
 2. Dimension Customer
 Dim customer design extract customer data from the source database (OLEDB). Apply some transformation (Lookup and get data from different tables and replace Nulls values).
 
 Apply Slowly Changing Dimension (SCD) processing to handle customer phone changes.
 
-![cu](https://github.com/user-attachments/assets/d8ed6ac1-a345-47b2-8045-06faadafc69c)
+![image](https://github.com/user-attachments/assets/21461024-9191-4564-837a-7f1faa5d2eea)
 
-Dim Date design extract customer data from the source database Excel file . Apply data convesion to Month_name column to reduce its length. dim date img
+### Dim Date 
+design extract customer data from the source database Excel file . Apply data convesion to Month_name column to reduce its length. 
+![image](https://github.com/user-attachments/assets/36a20313-58ab-4daf-8437-cb43e524d73b)
 
 
