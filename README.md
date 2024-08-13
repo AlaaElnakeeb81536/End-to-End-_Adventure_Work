@@ -36,10 +36,11 @@ The project employs a star schema for streamlined analytics:
 - Dim Customer: Comprehensive customer information.
 - Dim Date: Time-related data for analysis.
 - Dim Territory: Stores territory details.
+  
+![image](https://github.com/user-attachments/assets/d56d3ff5-1e90-467b-a87a-2bc6d58892a7)
 
 ### ETL
 The ETL process is comprised of 3 steps that enable data integration from source to destination: data extraction, data transformation, and data loading.
-![image](https://github.com/user-attachments/assets/970f2bbe-39e9-4932-b95f-bacf5ad6493a)
 
 ## 1. Dimension Product
 Dim Product design extract customer data from the source database (OLEDB). Apply some transformation (Lookup and get data from different tables and replace Nulls values).
