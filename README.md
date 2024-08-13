@@ -56,7 +56,7 @@ Apply Slowly Changing Dimension (SCD) processing to handle customer phone change
 
 ## 3. Dim Date 
 design extract customer data from the source database Excel file . Apply data convesion to Month_name column to reduce its length. 
-![image](https://github.com/user-attachments/assets/f53ceae1-b213-4286-a122-9e983ee1ce92)
+![image](https://github.com/user-attachments/assets/0188997b-5701-4b59-849d-637a49d4eab3)
 
 ## 4. Dim Territory
 Dim territory design extract customer data from the source database (OLEDB).
