@@ -55,17 +55,29 @@ Apply Slowly Changing Dimension (SCD) processing to handle customer phone change
 ![image](https://github.com/user-attachments/assets/21461024-9191-4564-837a-7f1faa5d2eea)
 
 ## 3. Dim Date 
-design extract customer data from the source database Excel file . Apply data convesion to Month_name column to reduce its length. 
+Design extract customer data from the source database Excel file . Apply data convesion to Month_name column to reduce its length. 
+
 ![image](https://github.com/user-attachments/assets/0188997b-5701-4b59-849d-637a49d4eab3)
 
 ## 4. Dim Territory
 Dim territory design extract customer data from the source database (OLEDB).
+
 ![image](https://github.com/user-attachments/assets/786e9ce5-b341-4287-a74e-0d109b748e5a)
 
 ## 5. Fact Sales
+Data can be loaded from the source to the destination using Full Load Process 
 
 ![image](https://github.com/user-attachments/assets/60bd92bf-72bf-4e66-87a4-a8a01eed32c8)
 
+----------------------------------------
+### Power PI:
+## Page 1:
+## page 2:
+## page 3:
+![image](https://github.com/user-attachments/assets/655384ab-0959-4e38-8ad3-8039013e189a)
+
+## page 4:
+![image](https://github.com/user-attachments/assets/c99053f1-41f7-447c-878c-0948844b8953)
 
 
 
