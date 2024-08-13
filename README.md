@@ -69,15 +69,37 @@ Data can be loaded from the source to the destination using Full Load Process
 
 ![image](https://github.com/user-attachments/assets/60bd92bf-72bf-4e66-87a4-a8a01eed32c8)
 
+### The Sales Data Mart Project has a major impact and yields noteworthy results:
+
+- Effective Data Access: Obtaining important sales data quickly.
+
+- Granular Analysis: In-depth knowledge of goods, clients, periods, and regions.
+
+- Full Load is  employed in adaptive data management.
+
+- Empowering Decision-Making: Provides extensive sales data to support strategic decisions.
+
+- Resource Allocation: Makes efficient resource allocation decisions based on perceptive sales patterns.
+
+- Improved Visualization: Impactful data visualization is made possible by structured data models, which also improve interpretability.
 ----------------------------------------
 ### Power PI:
 ## Page 1:
+![image](https://github.com/user-attachments/assets/f08616ba-20f2-4938-8d94-6b5830ab5275)
+
 ## page 2:
+![image](https://github.com/user-attachments/assets/f5ab2db6-fe19-4e1a-8452-019885e25532)
+
 ## page 3:
 ![image](https://github.com/user-attachments/assets/655384ab-0959-4e38-8ad3-8039013e189a)
 
 ## page 4:
 ![image](https://github.com/user-attachments/assets/c99053f1-41f7-447c-878c-0948844b8953)
 
+## page 5: 
+![image](https://github.com/user-attachments/assets/21a7edd9-58a2-4593-8c53-14908e9d9608)
+
+## page 6:
+![image](https://github.com/user-attachments/assets/50862da0-2ead-4a7a-ae86-6ff39508d901)
 
 
