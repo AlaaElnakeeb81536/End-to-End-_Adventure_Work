@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aae5a628-b178-4909-ae60-9b498de0a04b)### Sales Data Mart
+### Sales Data Mart
 Adventure Works Data Warehouse project (Sales data mart) using SQL , SSIS , PowerPi.
 
 ### Overview
