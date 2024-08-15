@@ -59,7 +59,7 @@ The project employs a star schema for streamlined analytics:
 - Design extract customer data from the source database Excel file.
 - Apply data convesion to Month_name column to reduce its length.
   
-  ![image](https://github.com/user-attachments/assets/0188997b-5701-4b59-849d-637a49d4eab3)
+![image](https://github.com/user-attachments/assets/3133aa04-b8bf-4e37-8cc8-6bddb69f6de7)
   
 ## 4. Dim Territory
 - Dim territory design extract customer data from the source database (OLEDB).
