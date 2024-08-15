@@ -204,6 +204,34 @@ Optimizing inventory and marketing strategies for top-selling products like HL M
 
 ## page 5: 
 ![image](https://github.com/user-attachments/assets/21a7edd9-58a2-4593-8c53-14908e9d9608)
+**1. Overview of Product Performance**
+
+The dashboard covers 505 products across 5 categories and 38 subcategories, with an average revenue per product of $371.
+The total sales amount to $10.73M with 28,959 units sold, generating a total profit of $4.29M at an average profit margin of 66.68%.
+
+**2. Top Subcategories by Revenue**
+
+Mountain Bikes lead with a revenue of $4.33M, followed by Road Bikes at $4.11M, indicating that these two subcategories are the main drivers of revenue.
+Touring Bikes contribute significantly less with $1.77M in revenue, and other subcategories like Tires and Tubes, Helmets, and Jerseys generate minimal revenue, each contributing under $0.2M.
+
+**3. Top Products by Sales and Profit**
+
+The Mountain-200 Black, 46 is the top-performing product, generating $723.58K in sales from 326 units, with a profit of $315.43K and a high profit margin of 77.28%.
+Other variants of the Mountain-200 series (Silver and Black) also feature prominently in both sales and profits, indicating their popularity.
+The Road-250 series also shows strong sales, with Road-250 Black, 52 generating $376.28K in sales and a profit of $127.48K, albeit at a lower profit margin of 51.24%.
+
+**4. Category by Revenue & Quantity**
+
+Bikes dominate the sales and quantity sold, contributing over $10.21M from 12K units sold. This reaffirms the importance of the Bikes category in overall business performance.
+Accessories contribute $236K in revenue from 2K units sold, while Clothing shows the lowest contribution with $86K from 2K units sold.
+
+**5. Product Profitability**
+Most top-selling products have a profit margin above 50%, with the Mountain-200 series consistently achieving margins over 75%. This highlights the profitability of these products.
+The Touring-1000 and Road-350 series have comparatively lower profit margins, ranging between 50-60%. These may be areas to explore for potential margin improvements.
+6. Strategic Insights
+Mountain and Road Bikes are clearly the most important products, both in terms of sales and profitability. The focus should be on maintaining and enhancing the performance of these products.
+There may be an opportunity to increase revenue and margins in the Touring Bikes subcategory by focusing on the best-performing models.
+The Accessories and Clothing categories, although contributing less to overall revenue, could be areas of focus for growth, either through new product introductions or marketing strategies to boost sales.
 
 ## page 6:
 ![image](https://github.com/user-attachments/assets/50862da0-2ead-4a7a-ae86-6ff39508d901)
