@@ -99,7 +99,7 @@ The image is a sales analysis dashboard with several key metrics and visualizati
    - Avg Cost: $293
 
 ### 2. Visualizations:
-   - Total Sales vs. Cost by Month:
+   - **Total Sales vs. Cost by Month**:
       A bar chart that compares total sales and cost across different months. Sales appear in blue bars, and costs are represented by a red line.
    - Current Year Sales vs. Previous Year Sales:
       A line graph that compares the sales of the current year (CT_sales) against the previous year (PR_sales) over time.
