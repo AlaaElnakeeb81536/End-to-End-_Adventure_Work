@@ -91,16 +91,19 @@ The project employs a star schema for streamlined analytics:
 
 The image is a sales analysis dashboard with several key metrics and visualizations. Here's a breakdown:
 
-1. Top Metrics:
+### 1. Top Metrics:
    - Total Sales: $29.36M
    - Sales Amount Avg: $486
    - Unit Sold: 60K
    - Avg Cost: $293
 
-2. Visualizations:
-   - Total Sales vs. Cost by Month: A bar chart that compares total sales and cost across different months. Sales appear in blue bars, and costs are represented by a red line.
-   - Current Year Sales vs. Previous Year Sales: A line graph that compares the sales of the current year (CT_sales) against the previous year (PR_sales) over time.
-   - Total Sales and Profit by Territory/Country: A world map highlighting sales and profit distribution across different regions, with emphasis on North America, Europe, and Australia.
+### 2. Visualizations:
+   - Total Sales vs. Cost by Month:
+      A bar chart that compares total sales and cost across different months. Sales appear in blue bars, and costs are represented by a red line.
+   - Current Year Sales vs. Previous Year Sales:
+      A line graph that compares the sales of the current year (CT_sales) against the previous year (PR_sales) over time.
+   - Total Sales and Profit by Territory/Country:
+      A world map highlighting sales and profit distribution across different regions, with emphasis on North America, Europe, and Australia.
 
 The dashboard is visually organized to provide an overview of sales performance, trends over time, and geographic distribution.
 
