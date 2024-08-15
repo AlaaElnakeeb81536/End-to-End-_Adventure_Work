@@ -114,20 +114,20 @@ The dashboard is visually organized to provide an overview of sales performance,
 - Total Profit: The total profit generated, displayed as $11.69M.
 - Freights: The total cost incurred for freights, displayed as $1.48M.
   
-**Profit Monthly Over Year (Line Chart)**
+-**Profit Monthly Over Year (Line Chart)**
 
 This line chart tracks monthly performance over the year.
 Total Sales: Shown with a shaded area and a red line, the graph shows total sales peaking around May and November.
 Profit: Displayed with a blue line, the profit remains relatively stable throughout the year with slight variations.
 
-**Profit & Sales by Continent (Pie Chart)**
+-**Profit & Sales by Continent (Pie Chart)**
 
 This pie chart provides a breakdown of profit and sales across different continents:
 Europe: $3.54M (30.31%)
 North America: $3.53M (30.23%)
 Pacific: $4.61M (39.46%)
 
-**Total Quantity by Country (Bar Chart)**
+-**Total Quantity by Country (Bar Chart)**
 
 This bar chart shows the quantity of products sold in different countries:
 United States: 21K units
@@ -137,7 +137,7 @@ United Kingdom: 7K units
 Germany: 6K units
 France: 6K units
 
-**Total Quantity by Month (Bar Chart)**
+-**Total Quantity by Month (Bar Chart)**
 This bar chart illustrates the total quantity of products sold per month:
 The sales peak in May with 6.2K units sold.
 The lowest sales occur in July with 4.0K units sold.
