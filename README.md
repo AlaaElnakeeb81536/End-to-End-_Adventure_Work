@@ -236,4 +236,35 @@ The Accessories and Clothing categories, although contributing less to overall r
 ## page 6:
 ![image](https://github.com/user-attachments/assets/50862da0-2ead-4a7a-ae86-6ff39508d901)
 
+**1. Overview of Customer Base**
+
+The dashboard tracks 19,120 customers across 271 cities.
+This extensive customer base highlights the reach and diversity of the business's market.
+
+**2. Top Customers by Revenue**
+
+The top customers by revenue include:
+Nichole Nara ($13,295)
+Kaitlyn J Henderson ($13,294)
+Margaret He ($13,269)
+Randall M Dominic ($13,266)
+Adriana L Gonzalez ($13,243)
+These top customers are tightly clustered in terms of revenue, each contributing over $13,000.
+
+**3. Top Cities by Revenue & Profit**
+
+London is the highest-grossing city with $803K in total sales and $318K in profit. This indicates that London is a critical market for the business.
+
+Paris follows with $540K in sales and $211K in profit, making it another significant city for the business.
+
+Other notable cities include Wollongong ($339K in sales, $132K in profit), Warrnambool ($327K in sales, $130K in profit), and Bendigo ($315K in sales, $125K in profit).
+
+These cities, although smaller in revenue compared to London and Paris, still represent important markets with significant profitability.
+
+**4. Strategic Insights**
+
+London and Paris are key cities for both revenue and profit. Targeted strategies to further penetrate these markets could yield significant returns.
+The close clustering of top customers by revenue suggests that they may have similar purchasing patterns or preferences. Understanding these patterns could help in developing targeted marketing or loyalty programs.
+Expanding focus on other top cities like Wollongong, Warrnambool, and Bendigo could diversify revenue streams and reduce dependency on the top two cities.
+
 
