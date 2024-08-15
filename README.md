@@ -1,9 +1,10 @@
 
+### Sales Data Mart
+Adventure Works Data Warehouse project (Sales data mart) using SQL , SSIS , PowerPi.
+
 ![image](https://github.com/user-attachments/assets/370e02e0-e519-45bc-9b76-8fa6ef6e3369)
 
 
-### Sales Data Mart
-Adventure Works Data Warehouse project (Sales data mart) using SQL , SSIS , PowerPi.
 
 ### Overview
 The AdventureWorks2019 Sales Data Mart Project is a powerful data solution built on SQL Server and SQL Server Integration Services (SSIS) and powerpi.
