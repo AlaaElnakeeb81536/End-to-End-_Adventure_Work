@@ -64,7 +64,8 @@ The project employs a star schema for streamlined analytics:
 ## 4. Dim Territory
 - Dim territory design extract customer data from the source database (OLEDB).
 
-![image](https://github.com/user-attachments/assets/786e9ce5-b341-4287-a74e-0d109b748e5a)
+![image](https://github.com/user-attachments/assets/f89838d6-ee1d-48d9-b705-e992afe44553)
+
 
 ## 5. Fact Sales
 - Data can be loaded from the source to the destination using Full Load Process 
