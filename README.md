@@ -169,6 +169,38 @@ Clothing as a category shows the lowest profit contribution at $136.41M. This co
 
 ## page 4:
 ![image](https://github.com/user-attachments/assets/c99053f1-41f7-447c-878c-0948844b8953)
+**1. Sales Target Achievement**
+
+The actual sales for the month stand at $29.36M, which is slightly below the sales target of $32.24M. This shortfall of about $2.88M indicates that the company is not meeting its sales targets, signaling a potential need to adjust sales strategies.
+
+**2. Sales Distribution Across Categories**
+
+Bikes contribute the most to the total sales, with an impressive figure of $28.32M. This highlights the dominance of the Bikes category in driving overall sales.
+Accessories are the next major contributor, generating $700.76K in sales, though far behind Bikes.
+Clothing ranks third with $339.77K in sales, suggesting it is a less significant contributor to overall revenue.
+
+**3. Subcategory Performance**
+
+Within Accessories, Tires and Tubes lead with $245.53K in sales, followed by Helmets at $225.34K.
+Other subcategories like Bottles and Cages and Fenders contribute relatively smaller amounts to the total sales, with $56.8K and $46.62K respectively.
+Hydration Packs show the lowest sales within Accessories at $40.31K.
+
+**4. Product-Level Sales Performance**
+
+The HL Mountain Tire is the top-selling product within the Tires and Tubes subcategory, with sales of $48.86K.
+The ML Mountain Tire follows with $34.82K in sales, and the HL Road Tire and Touring Tire also contribute significant amounts with $27.97K and $27.11K, respectively.
+ML Road Tire shows the least sales among the listed products, at $23.14K.
+
+**5. Potential Growth Opportunities**
+
+Given that the sales are slightly under target, there may be opportunities to boost sales through promotional activities, especially for high-margin and high-volume products like Bikes and Tires.
+The Accessories category, while performing reasonably well, shows room for growth, especially in subcategories like Bottles and Cages, and Fenders, which are underperforming relative to their peers.
+
+**6. Focus Areas**
+
+Bikes should continue to be a focal point for sales strategies given their substantial contribution to overall revenue.
+There may be potential to enhance sales in the Clothing category, which currently contributes the least among the major categories.
+Optimizing inventory and marketing strategies for top-selling products like HL Mountain Tire could help close the gap in sales targets.
 
 ## page 5: 
 ![image](https://github.com/user-attachments/assets/21a7edd9-58a2-4593-8c53-14908e9d9608)
