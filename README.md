@@ -144,6 +144,21 @@ The lowest sales occur in July with 4.0K units sold.
 
 ## page 3:
 ![image](https://github.com/user-attachments/assets/655384ab-0959-4e38-8ad3-8039013e189a)
+some insights derived from the Sales & Profit Analysis Dashboard:
+
+**1. Profit Distribution**
+Accessories dominate the profit landscape with a total of $438.67M, significantly higher than other categories like Bikes and Clothing.
+Within Accessories, Tires and Tubes and Helmets are the top-performing subcategories, contributing $153.7M and $141.06M, respectively.
+**2. Product-Level Performance**
+HL Mountain Tire leads in profit among individual products, generating $30.59M.
+The ML Mountain Tire and HL Road Tire follow, with $21.8M and $17.51M in profits, respectively.
+This indicates that mountain and road tires are crucial to the overall profitability of the company.
+**3. Sales Target Achievement**
+The dashboard shows that the actual sales ($29.36M) are slightly below the monthly target of $32.24M, indicating a shortfall of about $2.88M. This suggests a need to explore strategies to boost sales.
+On the profit side, the company is closer to its target, with actual profits of $11.69M against a target of $12.83M. While there is a gap, it is smaller than the sales shortfall, indicating relatively better control over costs or higher profit margins.
+**4. Strategic Focus Areas**
+Bottles and Cages and Fenders are underperforming subcategories within Accessories, with profits of $35.56M and $29.18M, respectively. These areas may require further attention to enhance profitability.
+Clothing as a category shows the lowest profit contribution at $136.41M. This could be an area for either a strategic revamp or reallocation of resources to more profitable categories.
 
 ## page 4:
 ![image](https://github.com/user-attachments/assets/c99053f1-41f7-447c-878c-0948844b8953)
