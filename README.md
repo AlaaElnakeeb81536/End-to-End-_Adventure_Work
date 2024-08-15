@@ -1,6 +1,6 @@
 
 
-### Adventure Works Data Warehouse project (Sales data mart) using SQL , SSIS , PowerPi.
+### Adventure Works Data Warehouse project (Sales data mart).
 
 
 ![image](https://github.com/user-attachments/assets/370e02e0-e519-45bc-9b76-8fa6ef6e3369)
